@@ -58,40 +58,39 @@ and press 'Start'!.<br></p>
 
 ## <a name="Media"></a>Media
 
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image1.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image1.JPG" height="500" style="max-width:100%;">
+<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image1.JPG">
+  <img src="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image1.JPG" height="350" style="max-width:100%;">
 </a>
-<blockquote>Default app view(taken in 2/03/2019)</blockquote>
+<blockquote>Default app view(taken in 2/13/2020)</blockquote>
 <br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image2.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image2.JPG" height="500" style="max-width:100%;">
+<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image2.JPG">
+  <img src="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image2.JPG" height="350" style="max-width:100%;">
 </a>
-<blockquote>Job ads from cvonline.lt(taken in 2/03/2019)</blockquote>
+<blockquote>Job ads from cvonline.lt(taken in 2/13/2020)</blockquote>
 <br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image3.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image3.JPG" height="500" style="max-width:100%;">
+<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image3.JPG">
+  <img src="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image3.JPG" height="350" style="max-width:100%;">
 </a>
-<blockquote>Job ads from cvonline.lt with a search option, for a specific company(taken in 2/03/2019)</blockquote>
+<blockquote>Job ads from cvonline.lt with a search option, for a specific company(taken in 2/13/2020)</blockquote>
 <br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image4.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image4.JPG" height="500" style="max-width:100%;">
+<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image4.JPG">
+  <img src="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/image4.JPG" height="350" style="max-width:100%;">
 </a>
-<blockquote>Job ads(taken in 2/03/2019)</blockquote>
+<blockquote>Job ads(taken in 2/13/2020)</blockquote>
 <br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image5.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image5.JPG" height="500" style="max-width:100%;">
+<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/O6wlgAwMOj.gif">
+  <img src="https://github.com/GintasS/JobAds/blob/master/JobAds/Images/O6wlgAwMOj.gif" height="350" style="max-width:100%;">
 </a>
-<blockquote>Job ads(taken in 2/03/2019)</blockquote>
-<br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/Image6.JPG">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/Image6.JPG" height="500" style="max-width:100%;">
-</a>
-<blockquote>Job ads with additional options enabled(taken in 2/03/2019)</blockquote>
-<br><br>
-<a target="_blank" href="https://github.com/GintasS/JobAds/blob/master/Images/3gPRKymW8k.gif">
-  <img src="https://github.com/GintasS/JobAds/blob/master/Images/3gPRKymW8k.gif" height="500" style="max-width:100%;">
-</a>
-<blockquote>Job ads with additional options enabled(taken in 2/03/2019)</blockquote>
+<blockquote>Job ads</blockquote>
 
 
 ## <a name="Changelog"></a>Changelog
+
+<h3>CHANGELOG 2/13/2020</h3>
+<ul>
+  <li>Code improvements & optimizations.</li>
+  <li>Instant website url copy on job ad click.</li>
+  <li>Some UI fixes.</li>
+  <li>Added some unit tests.</li>
+  <li>Added new images/media.</li>
+</ul>
