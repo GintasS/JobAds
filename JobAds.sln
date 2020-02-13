@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobAds", "JobAds\JobAds.csproj", "{A6003210-5D5F-4B5D-B9AE-93E2A53E2D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{FD013997-64EE-4828-9423-206429230FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6003210-5D5F-4B5D-B9AE-93E2A53E2D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6003210-5D5F-4B5D-B9AE-93E2A53E2D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6003210-5D5F-4B5D-B9AE-93E2A53E2D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6003210-5D5F-4B5D-B9AE-93E2A53E2D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD013997-64EE-4828-9423-206429230FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD013997-64EE-4828-9423-206429230FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD013997-64EE-4828-9423-206429230FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD013997-64EE-4828-9423-206429230FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91F336C-B15A-49E0-87C0-CF49FC721E57}
+	EndGlobalSection
+EndGlobal
