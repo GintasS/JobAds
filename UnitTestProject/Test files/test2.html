@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div id="main_wrapper" class="main_wrapper main_w_job_ad_list">
+        <div class="container" id="main_container">
+            <main id="main" class="main_long">
+                <div id="job_ad_list">
+                    <article class="list_article list_article_rememberable jobadlist_list_article_rememberable " id="job_ad_6562855">
+                        <div class="jobadlist_ad_anchor" id="jobad_6562855"></div>
+                        <a class="list_a can_visited list_a_has_logo" href="https://www.cvbankas.lt/santechnikas/">
+                            <div class="list_logo_c">
+                                <img src="https://i.ytimg.com/vi/J3pF2jkQ4vc/maxresdefault.jpg" width="84" height="70" alt="Test" title="Test">
+                            </div>
+                            <div class="list_a_wrapper">
+                                <div class="list_cell">
+                                    <h3 class="list_h3" lang="lt">Santechnikas</h3>
+                                    <span class="heading_secondary">
+                                        <span class="dib mt5">Test</span>
+                                    </span>
+                                </div>
+                                <div class="list_cell jobadlist_list_cell_salary">
+                                    <span class="salary_bl salary_bl_net">
+                                        <span class="salary_inner">
+                                            <span class="salary_text">
+                                                <span class="salary_amount">Nuo 3015</span>
+                                                <span class="salary_period">€/mėn.</span>
+                                            </span>
+                                            <span class="salary_calculation">Į rankas</span>
+                                        </span>
+                                    </span>
+                                </div>
+                                <div class="list_cell list_ads_c_last">
+                                    <span class="txt_list_1" lang="lt"><span class="list_city">Islandijoje</span></span>
+                                    <span class="txt_list_2">prieš 6 min.</span>
+                                </div>
+                            </div>
+                        </a>
+                        <form action="https://www.cvbankas.lt/isimiti-pamirsti-skelbima.html" method="post" class="jobadlist_remember_from">
+                            <input type="hidden" name="ad_id" value="6562855">
+                            <input type="submit" value="Įsiminti" class="list_remember_button button_sm_ico button_sm_ico_remember js_ga_event" data-category="ad_list" data-action="click" data-link-title="remember-forget">
+                        </form>
+                    </article>
+                </div>
+
+
+                <ul class="pages_ul mt30 mb30">
+                    <li><a href="https://www.cvbankas.lt/" class="prev_next">«</a></li>
+
+                    <li>
+                        <ul class="pages_ul_inner">
+                            <li>
+                                <a href="https://www.cvbankas.lt/">1</a>
+                            </li>
+                            <li>
+                                <a href="https://www.cvbankas.lt/?page=2" class="current">2</a>
+                            </li>
+                            <li>
+                                <a href="https://www.cvbankas.lt/?page=3">3</a>
+                            </li>
+                            <li>
+                                <a href="https://www.cvbankas.lt/?page=4">4</a>
+                            </li>
+                            <li>
+                                <a href="https://www.cvbankas.lt/?page=5">5</a>
+                            </li>
+                            <li>
+                                ...
+                            </li>
+                            <li>
+                                <a href="https://www.cvbankas.lt/?page=98">98</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://www.cvbankas.lt/?page=3" class="prev_next">»</a></li>
+                </ul>
+
+
+                <div id="banner_narrow_inline" class="adspace"><div id="div-gpt-ad-1576597118278-0"></div></div>
+
+                <script>
+                    if (cvbCanJs()) {
+                        window.addEventListener('load', function () {
+                            require(['cvbcomm!supports'], function (supports) {
+                                // remember ad
+                                if (supports.doesXhrLoadEnd()) {
+                                    require(['cvbcomm!event_manager'], function (eventManager) {
+                                        var savedAdsCount = document.getElementById('remembered_ads_count'),
+                                            adsContainer = document.getElementById('job_ad_list'),
+                                            headMenu = document.getElementById('head_a_menu');
+                                        eventManager.listenForClassClick(adsContainer, 'list_remember_button', function (e, button) {
+                                            e.preventDefault();
+
+                                            require(['cvbcomm!job_ad_rememberer'], function (jobAdRememberer) {
+                                                jobAdRememberer.submitClicked(
+                                                    button,
+                                                    savedAdsCount,
+                                                    headMenu,
+                                                    'Pamiršti',
+                                                    'button_sm_ico_remember_not',
+                                                    'Įsiminti',
+                                                    'loader'
+                                                )
+                                            });
+                                        });
+                                    });
+                                }
+
+                                // additional areas
+                                require(['cvbcomm!ad_list/multi_area_selector'], function (multiAreaSelector) {
+                                    multiAreaSelector.manageAdditionalAreas(
+                                        'https://www.cvbankas.lt/papildomos-sritys.html',
+                                        document.getElementById('area_add_c'),
+                                        document.getElementById('filter_area'),
+                                        document.getElementById('form_filter'),
+                                        document.getElementById('area_add_inputs'),
+                                        document.getElementById('area_add_amount'),
+                                        document.getElementById('area_add_choose'),
+                                        document.getElementById('area_add_chosen'),
+                                        document.getElementById('area_add_choose'),
+                                        document.getElementById('area_add_edit'),
+                                        document.getElementById('are_add_clear')
+                                    );
+
+                                });
+
+                                // submit style changing
+                                require(['cvbcomm!ad_list/submit_changer'], function (submitChanger) {
+                                    submitChanger.manageChanging(
+                                        document.getElementById('main_filter_submit'),
+                                        document.getElementById('filter_city'),
+                                        document.getElementById('filter_area'),
+                                        document.getElementById('filter_keyword'),
+                                        'button_jsk',
+                                        'button_general'
+                                    );
+                                });
+
+                                // temporary track remember/forget
+                                require(['cvbcomm!google_analytics_events_manager'], function (gaEventsManager) {
+                                    var ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+                                    gaEventsManager.sendEvent(document.getElementById('job_ad_list'), 'js_ga_event', 'ignored', ga);
+                                });
+                            });
+                        });
+                    }
+                </script>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
