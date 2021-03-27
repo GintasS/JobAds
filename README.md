@@ -94,3 +94,8 @@ and press 'Start'!.<br></p>
   <li>Added some unit tests.</li>
   <li>Added new images/media.</li>
 </ul>
+
+<h3>CHANGELOG 27/03/2020</h3>
+<ul>
+  <li>Fixed grammar mistakes.</li>
+</ul>
