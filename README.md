@@ -59,8 +59,8 @@
 
 <p><b>Optional:</b></p>
 <ul>
-  <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
-  <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents.<br>
+  <li><b>Scrap all pages</b> - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
+  <li><b>Enable description scraping</b> - means that a scraper will go to the description of each job and retrieve it contents.<br>
     This allows for better searching, but it will also slow down the application to a few minutes instead of few seconds.</li>
 </ul>
 
