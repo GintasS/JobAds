@@ -57,10 +57,11 @@
   <li>Press "Start"!</li>
 </ol>
 
-<b>Checkboxes:</b>
+<p>Optional:</p>
 <ul>
   <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
-  <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents. This allows for better searching, but it also will slow down the application to a few minutes instead of seconds, because of the many http requests.</li>
+  <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents.<br>
+    This allows for better searching, but it also will slow down the application to a few minutes instead of seconds.</li>
 </ul>
 
 ## <a name="Media"></a>Media
