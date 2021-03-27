@@ -53,7 +53,7 @@
 <b>Examples:</b><br>
 https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
 https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br>
-and press 'Start'!.<br></p>
+and press "Start"!.<br></p>
 <b>Checkboxes:</b>
 <ul>
 <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
