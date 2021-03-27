@@ -61,7 +61,7 @@
 <ul>
   <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
   <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents.<br>
-    This allows for better searching, but it also will slow down the application to a few minutes instead of seconds.</li>
+    This allows for better searching, but it will also slow down the application to a few minutes instead of few seconds.</li>
 </ul>
 
 ## <a name="Media"></a>Media
@@ -97,7 +97,7 @@
 <h3>CHANGELOG 2/13/2020</h3>
 <ul>
   <li>Code improvements & optimizations.</li>
-  <li>Instant website url copy on job ad click.</li>
+  <li>Instant job url copy on the job ad click.</li>
   <li>Some UI fixes.</li>
   <li>Added some unit tests.</li>
   <li>Added new images/media.</li>
