@@ -6,6 +6,7 @@
 
   - [Intro](#intro)
   - [Features](#features)
+  - [Searchable Job Parts](#searchableJobParts)
   - [Requirements](#req)
   - [Usage](#usage)
   - [Media](#media)
@@ -28,7 +29,10 @@
   <li>Supports two most popular websites in Lithuania: cvonline.lt and cvbankas.lt!</li>
   <li>Data grid supports sorting by columns, like job title, company, salary and more!</li>
 </ul>
-<h3>Searchable job parts:</h3>
+
+
+## <a name="searchableJobParts"></a>Searchable job parts
+
 <ul>
   <li>Title</li>
   <li>Company name</li>
@@ -45,7 +49,7 @@
 
 ## <a name="Usage"></a>Usage
 
-<p>In the first textbox where you see url put either cvonline.lt or cvbankas.lt url.<br><br>
+<p>In the first textbox, with the name of "Start url", put either cvonline.lt or cvbankas.lt url.<br>
 <b>Examples:</b><br>
 https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
 https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br>
