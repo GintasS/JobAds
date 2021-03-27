@@ -50,7 +50,7 @@
 ## <a name="Usage"></a>Usage
 
 <ol>
-  <li>In the first textbox, with the name of "Start url", put either cvonline.lt or cvbankas.lt url.<br>
+  <li>In the first textbox, with the name of "<b>Start url</b>", put either cvonline.lt or cvbankas.lt url.<br>
       <b>Examples:</b><br>
       https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
       https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br></li>
