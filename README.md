@@ -13,18 +13,19 @@
   
 ## <a name="Intro"></a>Intro
 
-This is a project that enables user to surf two most popular job ad websites in lithuanian with ease.<br><br>
-Websites are:<br>
-<a href='https://www.cvonline.lt' target='_blank'>cvonline.lt</a><br>
-<a href='https://www.cvbankas.lt/' target='_blank'>cvbankas.lt</a><br>
+<p>This is a project that enables the user to surf two most popular job ad websites in Lithuania with ease.</p>
+<p>These websites are: <a href='https://www.cvonline.lt' target='_blank'>cvonline.lt</a> and 
+<a href='https://www.cvbankas.lt/' target='_blank'>cvbankas.lt</a>
+</p>
+<p>You can download this application via .zip file.</p>
 
 ## <a name="Features"></a>Features
 
 <ul>
   <li>Supports advanced searching: you can search through job ads for specific keywords or some other text, like .NET developer or Project Manager.</li>
- <li>Supports multi pages: meaning you can get a whole category(example IT) of job ads instantaniously, without click 2nd page,3rd page and etc.
+ <li>Supports multi pages: meaning you can get a whole category(example IT) of job ads instantaniously, without click 2nd page, 3rd page and etc.
  </li>
-  <li>Supports two most popular websites:cvonline.lt and cvbankas.lt!</li>
+  <li>Supports two most popular websites in Lithuania: cvonline.lt and cvbankas.lt!</li>
   <li>Data grid supports sorting by columns, like job title, company, salary and more!</li>
 </ul>
 <h3>Searchable job parts:</h3>
@@ -34,7 +35,6 @@ Websites are:<br>
   <li>Address</li>
   <li>Full job description.</li>
 </ul>
-You can download this application via .zip file.<br>
 
 ## <a name="req"></a>Requirements
 
@@ -52,8 +52,8 @@ https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br>
 and press 'Start'!.<br></p>
 <b>Checkboxes:</b>
 <ul>
-<li>Scrap all pages - means that a scraper will attempt to scrap whole category(like IT, business or pharmacy).</li>
-<li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents.This allows for better searching, but it also will slow down the application to a few minutes instead of seconds, because of many http requests.</li>
+<li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
+<li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents. This allows for better searching, but it also will slow down the application to a few minutes instead of seconds, because of the many http requests.</li>
 </ul>
 
 ## <a name="Media"></a>Media
