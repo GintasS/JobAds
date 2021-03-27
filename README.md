@@ -54,7 +54,7 @@
       <b>Examples:</b><br>
       https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
       https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br></li>
-  <li>Press "Start"!</li>
+  <li>Press "<b>Start</b>"!</li>
 </ol>
 
 <p><b>Optional:</b></p>
