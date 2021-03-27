@@ -49,15 +49,18 @@
 
 ## <a name="Usage"></a>Usage
 
-<p>In the first textbox, with the name of "Start url", put either cvonline.lt or cvbankas.lt url.<br>
-<b>Examples:</b><br>
-https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
-https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br>
-and press "Start"!.<br></p>
+<ol>
+  <li>In the first textbox, with the name of "Start url", put either cvonline.lt or cvbankas.lt url.<br>
+      <b>Examples:</b><br>
+      https://www.cvonline.lt/darbo-skelbimai/informacines-technologijos/vilniaus or <br>
+      https://www.cvbankas.lt/?miestas=&padalinys%5B%5D=945&keyw=<br></li>
+  <li>Press "Start"!</li>
+</ol>
+
 <b>Checkboxes:</b>
 <ul>
-<li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
-<li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents. This allows for better searching, but it also will slow down the application to a few minutes instead of seconds, because of the many http requests.</li>
+  <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
+  <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents. This allows for better searching, but it also will slow down the application to a few minutes instead of seconds, because of the many http requests.</li>
 </ul>
 
 ## <a name="Media"></a>Media
