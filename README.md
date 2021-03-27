@@ -57,7 +57,7 @@
   <li>Press "Start"!</li>
 </ol>
 
-<p>Optional:</p>
+<p><b>Optional:</b></p>
 <ul>
   <li>Scrap all pages - means that a web-scraper will attempt to scrap a whole category(like IT, business or pharmacy).</li>
   <li>Enable description scraping - means that a scraper will go to the description of each job and retrieve it contents.<br>
